@@ -11,3 +11,7 @@ download the mods hosted here and run them automatically.
 
 Pretty fun way to test out k8s deployments and potentially CI/CD pipelines in
 the future.
+
+**Please Note:** I did not create nor do I own any of the mods hosted here. If
+you are interested in any of the mods in this repository, please see their
+respective home pages.
